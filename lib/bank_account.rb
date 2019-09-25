@@ -1,7 +1,7 @@
 class BankAccount
 
 attr_reader :name
-a
+attr_acc
 
   def initialize(name, balance = 1000, status = "open")
       @name = name
