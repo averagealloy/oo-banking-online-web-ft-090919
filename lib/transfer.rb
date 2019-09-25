@@ -9,5 +9,5 @@ class Transfer
     @amount =  amount
   end
 
-  def vaid?
+  def vail
 end
