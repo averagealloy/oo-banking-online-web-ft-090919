@@ -1,4 +1,4 @@
 class Transfer
   # your code here
-  attr_accessor :send
+  attr_accessor :sender, 
 end
