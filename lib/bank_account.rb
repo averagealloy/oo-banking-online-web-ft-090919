@@ -20,6 +20,6 @@ def display_balance
 end
 
 def valad?
-
+@ststu
 end
 end
