@@ -16,5 +16,5 @@ end
 
 def display_balance
 
-  
+end 
 end
