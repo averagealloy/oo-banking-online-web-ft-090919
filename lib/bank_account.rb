@@ -20,6 +20,6 @@ def display_balance
 end
 
   def valad?
-      @stat == "open" && @balance > 0
+      @status == "open" && @balance > 0
     end
 end
