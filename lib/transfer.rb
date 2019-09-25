@@ -15,5 +15,5 @@ class Transfer
 
   def execute_transaction
 if @status == "complete"
-  puts
+  puts 
 end
