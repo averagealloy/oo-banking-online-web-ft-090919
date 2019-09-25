@@ -14,5 +14,5 @@ def deposit
 end
 
 
-de
+def display
 end
