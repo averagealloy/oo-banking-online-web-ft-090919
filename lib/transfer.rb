@@ -10,7 +10,7 @@ class Transfer
   end
 
   def valid?
-    @sender.valid? && @reciver.valid?
+    @sender.valid? && @receiver.valid?
   end
 #def execute_transaction
 
