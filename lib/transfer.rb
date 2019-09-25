@@ -9,7 +9,7 @@ class Transfer
     @amount =  amount
   end
 
-  def valid?
+  def v?
     @sender.valid? && @reciver.valid?
   end
 #def execute_transaction
