@@ -13,7 +13,7 @@ class Transfer
     @sender.valid? && @reciver.valid?
   end
 def execute_transaction
-  if @sender.balence 
+  if @
 
 end
 end
