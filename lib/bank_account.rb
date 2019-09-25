@@ -1,6 +1,6 @@
 class BankAccount
 
-attr_reader :name, balence 
+attr_reader :name, bal
 
 def initialize(name)
 
