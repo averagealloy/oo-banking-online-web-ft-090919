@@ -1,6 +1,6 @@
 class BankAccount
 
-att
+attr_rea
 
 def initialize
 
