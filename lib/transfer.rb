@@ -5,5 +5,5 @@ class Transfer
   def initialize(sender, reciver, status = "pending", amount)
 
 
-    e
+  end
 end
