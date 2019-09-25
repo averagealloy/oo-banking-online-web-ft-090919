@@ -9,5 +9,5 @@ attr_reader :name
       @status = status
     end
 
-def 
+def dep
 end
