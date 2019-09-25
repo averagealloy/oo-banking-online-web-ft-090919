@@ -2,8 +2,8 @@ class BankAccount
 
 attr_reader :name, :balence
 
-def initialize(name)
-@name = name 
+  def initialize(name)
+      @name = name 
 end
 
 end
