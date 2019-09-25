@@ -27,5 +27,5 @@ class Transfer
      end
    end
 
-   def re
+   def reverse
  end
