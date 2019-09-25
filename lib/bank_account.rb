@@ -20,6 +20,6 @@ def display_balance
 end
 
 def valad?
-@ststus == "open" && @
+@ststus == "open" && @balan
 end
 end
