@@ -4,7 +4,7 @@ attr_reader :name, :balence
 
   def initialize(name, balance)
       @name = name
-      @balence = 1000
+      @balence
     end
 
 end
