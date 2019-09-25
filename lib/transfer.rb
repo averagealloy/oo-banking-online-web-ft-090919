@@ -2,5 +2,5 @@ class Transfer
   # your code here
   attr_accessor :sender, :reciver, :status, :amount
 
-  def initialize
+  def initialize(sned)
 end
