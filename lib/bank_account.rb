@@ -10,6 +10,7 @@ attr_reader :name
     end
 
 def deposit(value)
+  ba
 
 end
 
