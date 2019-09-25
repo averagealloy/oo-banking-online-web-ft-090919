@@ -14,5 +14,5 @@ class Transfer
   end
 
   def execute_transaction
-if 
+if @ststus 
 end
