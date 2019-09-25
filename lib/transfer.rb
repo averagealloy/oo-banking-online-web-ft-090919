@@ -1,4 +1,4 @@
 class Transfer
   # your code here
-  attr_
+  attr_a
 end
