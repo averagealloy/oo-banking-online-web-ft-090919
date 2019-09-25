@@ -21,5 +21,5 @@ end
 
 def valad?
 
-  
+end
 end
