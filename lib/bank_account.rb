@@ -2,7 +2,7 @@ class BankAccount
 
 attr_reader :name, :balence
 
-  def initialize(name, balan)
+  def initialize(name, balance)
       @name = name
       @balence =
     end
