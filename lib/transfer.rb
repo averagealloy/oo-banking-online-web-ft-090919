@@ -1,4 +1,4 @@
 class Transfer
   # your code here
-  attr_a
+  attr_accessor 
 end
