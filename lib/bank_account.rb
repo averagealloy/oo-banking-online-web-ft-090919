@@ -1,6 +1,6 @@
 class BankAccount
 
-attr_rea
+attr_reader 
 
 def initialize
 
