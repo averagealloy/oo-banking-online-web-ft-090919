@@ -28,6 +28,6 @@ class Transfer
    end
 
    def reverse_transfer
-     if @status 
+     if @status == cp
    end
  end
