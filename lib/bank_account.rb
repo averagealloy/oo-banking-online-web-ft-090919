@@ -14,5 +14,5 @@ def deposit
 end
 
 
-def display
+def display_bala
 end
