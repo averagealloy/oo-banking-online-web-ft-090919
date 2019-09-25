@@ -9,12 +9,12 @@ attr_reader :name
       @status = status
     end
 
-def deposit
+def deposit(value)
 
 end
 
 
 def display_balance
 
-end 
+end
 end
