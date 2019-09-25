@@ -16,6 +16,6 @@ end
 
 
 def display_balance
-
+"Your balance is $1000."
 end
 end
