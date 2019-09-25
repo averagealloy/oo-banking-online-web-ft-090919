@@ -14,5 +14,5 @@ class Transfer
   end
   def execute_transaction
     if @status == "complete"
-      puts ""
+      puts ""Transaction rejected. Please check your account balance.""
 end
