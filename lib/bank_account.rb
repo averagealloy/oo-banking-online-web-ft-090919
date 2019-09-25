@@ -19,7 +19,7 @@ def display_balance
 "Your balance is $#{@balance}."
 end
 
-def valad?
-@ststus == "open" && @balance > 0 
+  def valad?
+      @ststus == "open" && @balance > 0 
 end
 end
